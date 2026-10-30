@@ -1,8 +1,8 @@
 {
-  "versionCode": 10,
-  "versionName": "1.3.6",
-  "size": 4120289,
-  "sha256": "ee68915d4cf7722f5c3bd4ce7c10f74ed0d2ec1039ae3a168c7ecf6731aa300e",
+  "versionCode": 11,
+  "versionName": "1.3.7",
+  "size": 6675126,
+  "sha256": "8a0e7feee40f5b8bad403ede2ff0bdf31bb73eacb2bab57d7e621b443a5d81b9",
   "url": "https://raw.githubusercontent.com/zamnnzz/beit-altarjami-tv-updates/main/ObaidNewspaper.apk",
-  "notes": "مصدر بديل للحرم المكي 720p. إضافة MBC 2 وMBC أكشن مع بث المسلسلات عبر مشغل صفحة شاهد الرسمي؛ قد يطلب حسابًا أو يقيّد التشغيل حسب الجهاز والمنطقة."
+  "notes": "MBC 2 وأكشن عبر مشغل أصلي داخل الجريدة بدل صفحة شاهد، مع دعم DASH/Widevine وتجديد بيانات التشغيل عند إعادة الاتصال. تشغيل الفيديو والترخيص على TCL لم يختبرا بعد."
 }
