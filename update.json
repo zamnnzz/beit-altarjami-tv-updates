@@ -1,8 +1,8 @@
 {
-  "versionCode": 21,
-  "versionName": "1.3.17",
+  "versionCode": 22,
+  "versionName": "1.3.18",
   "size": 7433286,
-  "sha256": "69ab20eed9f5102cd723aaf27365c4a082eed817ef89a9670783bd52d38f9a32",
+  "sha256": "4c216e512d96ba8badb4856c023ff7d97fb18ac0793333ca5f671b9f9cff66f3",
   "url": "https://raw.githubusercontent.com/zamnnzz/beit-altarjami-tv-updates/main/ObaidNewspaper.apk",
-  "notes": "إصلاح انكماش البطاقات عند زيادة القنوات، والتنقل بصفوف كاملة. اختصار تحديث التلفاز أول إعدادات ريموت الجوال."
+  "notes": "إيقاف شاشة التوقف من قائمة الخمول وزر إطفاء الشاشة الآن، وخلفية هادئة للسكون. بحث يوتيوب أعلى ريموت الجوال بالكتابة أو إملاء لوحة المفاتيح."
 }
