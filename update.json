@@ -1,8 +1,8 @@
 {
-  "versionCode": 22,
-  "versionName": "1.3.18",
-  "size": 7433286,
-  "sha256": "4c216e512d96ba8badb4856c023ff7d97fb18ac0793333ca5f671b9f9cff66f3",
+  "versionCode": 23,
+  "versionName": "1.3.19",
+  "size": 7420998,
+  "sha256": "60b7cf3cbe654fbfe5b4dae843d64ba62f3601b2c021a2e8e6bb7d575548a9c2",
   "url": "https://raw.githubusercontent.com/zamnnzz/beit-altarjami-tv-updates/main/ObaidNewspaper.apk",
-  "notes": "إيقاف شاشة التوقف من قائمة الخمول وزر إطفاء الشاشة الآن، وخلفية هادئة للسكون. بحث يوتيوب أعلى ريموت الجوال بالكتابة أو إملاء لوحة المفاتيح."
+  "notes": "تخفيف تأخير الريموت بإعطاء الأزرار أولوية وتقليل طلبات الخلفية، وإصلاح تداخل الجريدة والعصري عند التشغيل والإعدادات والرجوع من السكون."
 }
